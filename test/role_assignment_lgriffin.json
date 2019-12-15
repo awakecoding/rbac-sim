@@ -1,0 +1,11 @@
+{
+    "RoleAssignmentId": "/subscriptions/8c978e88-3b6b-42c4-bb42-3cb3357c7870/providers/Microsoft.Authorization/roleAssignments/10d04bc6-feae-486c-9a8a-3a95826334ec",
+    "Scope": "/subscriptions/8c978e88-3b6b-42c4-bb42-3cb3357c7870",
+    "DisplayName": "Laura Griffin",
+    "SignInName": "lgriffin@yolo.consulting",
+    "RoleDefinitionName": "Owner",
+    "RoleDefinitionId": "8e3af657-a8ff-443c-a75c-2fe8c4bcb635",
+    "ObjectId": "d5052b6c-3fb4-48de-8d13-16e608076a66",
+    "ObjectType": "User",
+    "CanDelegate": false
+  }
